@@ -1,0 +1,12 @@
+{
+  "name": "trilha_nlw-journey",
+  "version": "1.0.0",
+  "description": "Trilha realizada no evento Next Level Week - Journey | Disponibilizado pela Rocketseat | Trilha de NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
