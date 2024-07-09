@@ -1,5 +1,6 @@
 import { FastifyInstance } from "fastify";
 import { ZodTypeProvider } from "fastify-type-provider-zod";
+import dayjs from 'dayjs'
 import { z } from 'zod'
 import { prisma } from "../lib/prisma";
 
